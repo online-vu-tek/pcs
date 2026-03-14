@@ -2,4 +2,6 @@ Generate word file.
 save as filtered html
 create folder in github with 1file inside
 upload files to github
+se ia linkul de la o poza si se modifica: înlocuiești github.com cu raw.githubusercontent.com și elimini blob/
+ex. https://github.com/online-vu-tek/pcs/blob/main/blade_hd/image001.jpg in https://raw.githubusercontent.com/online-vu-tek/pcs/main/blade_hd/image001.jpg
 edit html on computer and change links
